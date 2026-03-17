@@ -27,7 +27,7 @@ This project analyzes the Northwind dataset to uncover key business insights acr
 - Customer segmentation
 
 ## 🔗 Live Dashboard
-👉 (Paste your Power BI link here after publishing)
+👉 https://app.powerbi.com/links/W7Dr_7xT00?ctid=ed2f5b48-cadb-47e0-86ec-77fde2eb22ac&pbi_source=linkShare
 
 ## 📁 Project Files
 - Northwind.pbix (Power BI report)
